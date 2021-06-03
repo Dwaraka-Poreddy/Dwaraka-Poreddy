@@ -8,6 +8,6 @@
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Dwaraka-Poreddy)
 - 💬 Ask me about **React JS, Firebase, Mongo DB**
 - 📫 How to reach me: dwarakaporeddy124@gmail.com
-- 😁
+- 😁 Pronouns: He/His
 - ⚡ Fun fact: ...
 
