@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Giftshub](https://giftshub.live/)
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **NLP**
 
-- 🤝 I’m looking for help with **Penetration Testing**
+<!-- - 🤝 I’m looking for help with **Penetration Testing** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dwaraka-Poreddy](https://github.com/Dwaraka-Poreddy)
 
