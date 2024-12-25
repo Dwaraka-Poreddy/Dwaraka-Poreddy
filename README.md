@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dwaraka Poreddy</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on [Giftshub](https://giftshub.live/)
+- 🔭 I’m currently working on [EvaluAItor](https://evaluaitor.in/)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **IOS Development**
 
-- 👯 I’m looking to collaborate on **NLP**
+- 👯 I’m looking to collaborate on **Flutter**
 
 <!-- - 🤝 I’m looking for help with **Penetration Testing** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dwaraka-Poreddy](https://github.com/Dwaraka-Poreddy)
 
-- 💬 Ask me about **React Js, Firebase, MongoDB**
+- 💬 Ask me about **React Js, Flutter, Firebase, MongoDB**
 
 - 📫 How to reach me **dwarakaporeddy124@gmail.com**
 
